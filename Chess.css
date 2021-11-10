@@ -18,6 +18,9 @@ td{
     height:50px;
     width:50px;
 }
+table:hover{
+    background-color: red;
+}
 
 table{
     border: 3px solid black;
